@@ -1,1 +1,8 @@
-./slides -
+
+
+**/venv/
+
+**/DL-slides
+**/my-image.png
+**/reshaped-image-vector.png
+**/sigmoid.png
